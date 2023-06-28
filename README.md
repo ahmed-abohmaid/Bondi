@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Bondi ⚡</h1>
+# Bondi
 
 ## Table of content : 
 
@@ -8,7 +8,7 @@
 <hr>
 
 ## Description
-My frist bootstrap project with responsive to all devices.
+My first bootstrap project with responsive to all devices.
 
 Live Project :
 <a href="https://ahmed-abohmaid.github.io/Bondi/" alt="bondi">Bondi</a>
@@ -21,7 +21,7 @@ Live Project :
 
 <hr>
 
-<h2 align="center">⚡️ How to reach me ⚡️</h2>
+<h2 align="center"> How to reach me </h2>
   
 <p align="center">
     <a href="mailto:ahmedmedo.am121212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
