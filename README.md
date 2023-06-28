@@ -1,12 +1,5 @@
 # Bondi
 
-## Table of content : 
-
-*  [Description](#description)
-*  [Technologies](#technologies)
-
-<hr>
-
 ## Description
 My first bootstrap project with responsive to all devices.
 
